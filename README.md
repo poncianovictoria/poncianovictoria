@@ -19,9 +19,7 @@
   
 </div>
 
-![snake animation](https://github.com/poncianovictoria/poncianovictoria/blob/output/github-contribution-grid-snake.svg)
 
-[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=poncianovictoria&repo=poncianovictoria&theme=react)](https://github.com/poncianovictoria/poncianovictoria) 
 
 
 
