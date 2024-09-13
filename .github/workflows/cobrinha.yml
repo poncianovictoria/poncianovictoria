@@ -1,18 +1,16 @@
-name: Generate Data
+name: Generate Datas
 
 on:
-  schedule:
-    # Execute every 12 hours
-    - cron: '0 */12 * * *'
+  schedule: # Executa a cada 12 horas
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update data
+    name: Jobs to update datas
     runs-on: ubuntu-latest
-
     steps:
-      # Snake Animation
+      # Animação de Cobra
       - uses: platane/snk@master
         id: snake-gif
         with:
@@ -25,8 +23,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
