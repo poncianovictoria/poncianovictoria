@@ -8,7 +8,7 @@
   <img align="center" alt="Vic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vic-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+  <img align="right" alt="Vic-gif" height="100" width="100" src="https://github.com/poncianovictoria/poncianovictoria/blob/main/download%20(1).gif?raw=true" />
 </div>
 
 ## 
