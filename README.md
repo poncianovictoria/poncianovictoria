@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Eniac, em Guarulhos, e minha paixão por tecnologia é o que me move.<p/>
+<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Eniac, em Guarulhos, e minha paixão por tecnologia é o que me move.🚀👩🏻‍💻<p/>
   
   ##
   
